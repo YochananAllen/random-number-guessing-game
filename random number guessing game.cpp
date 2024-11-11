@@ -1,5 +1,9 @@
 // random number guessing game.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Name: Yochanan Allen 
+//Write a program that generates a random number and asks the user to guess what the number is.
+//If the user’s guess is higher than the random number, the program should display “Too high, try again.”
+//If the user’s guess is lower than the random number, the program should display “Too low, try again.”
+//The program should use a loop that repeats until the user correctly guesses the random number.
 
 #include <iostream>
 #include <random>
